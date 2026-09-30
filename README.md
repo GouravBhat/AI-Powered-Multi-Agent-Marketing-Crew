@@ -8,7 +8,7 @@ The system coordinates these specialized agents to transform a marketing require
 
 ## 🧠 Project Architecture
 
-![AI-Powered Multi-Agent Marketing Crew Architecture](assets/marketing-crew-architecture.png)
+![AI-Powered Multi-Agent Marketing Crew Architecture](assests/marketing-crew-architecture.png)
 
 The system follows a multi-agent workflow where each specialized agent performs a specific task and contributes to the final marketing output.
 
