@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 _ = load_dotenv()
 llm = LLM(
-    model="gemini/gemini-2.0-flash",
+    model="gemini/gemini-3.0-flash-lite",
     temperature=0.7,
 )
 
